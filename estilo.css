@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif; 
+  max-width: 760px; 
+  margin: 40px auto; 
+  padding: 0 16px;
+  color: #132018;
+}
+
+nav a {
+  color: #f0e7eb; 
+  text-decoration: none; 
+  font-weight: bold;
+}
+
+h1 {
+  color: #f868c1;
+}
